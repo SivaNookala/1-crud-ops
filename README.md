@@ -1,1 +1,1 @@
-# CRUD operations example
+# Demo-apps
